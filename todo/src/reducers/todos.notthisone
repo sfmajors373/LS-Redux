@@ -1,0 +1,12 @@
+export default () => {
+  return [
+    {
+      todo: 'Make React/Redux App',
+      completed: false,
+    },
+    {
+      todo: 'Learn Redux',
+      completed: false,
+    }
+  ];
+};
